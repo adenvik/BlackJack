@@ -1,0 +1,39 @@
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\bin\Debug\BlackJackV2.exe.config
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\bin\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\bin\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.Form1.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.Properties.Resources.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.csproj.GenerateResource.Cache
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2\BlackJackV2\obj\Debug\BlackJackV2.Form2.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\bin\Debug\BlackJackV2.exe.config
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\bin\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\bin\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.Form1.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.Form2.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.Properties.Resources.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - копия\BlackJackV2\obj\Debug\BlackJackV2.csproj.GenerateResource.Cache
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.exe.config
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Form1.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Form2.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Properties.Resources.resources
+C:\Users\Денис\Desktop\Обучение\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.csproj.GenerateResource.Cache
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.exe.config
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.exe
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\bin\Debug\BlackJackV2.pdb
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Form1.resources
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Form2.resources
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.Properties.Resources.resources
+C:\Users\Денис\Desktop\Обучение\1 курс\2 - Разработка Win-приложений\Lab_4\BlackJackV2 - доработан\BlackJackV2\obj\Debug\BlackJackV2.csproj.GenerateResource.Cache
